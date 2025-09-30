@@ -57,21 +57,21 @@ Movie Recommendation System
 
 Target Movie: Forrest Gump (1994)
 
---- Content-Based Recommendations ---
-                    Apollo 13 (1995)
-         Wag the Dog (1997)
-    Saving Private Ryan (1998)
-                Good Will Hunting (1997)
-        Erin Brockovich (2000)
+Content-Based Recommendations
+      1. Apollo 13 (1995)
+      2. Wag the Dog (1997)
+      3. Saving Private Ryan (1998)
+      4. Good Will Hunting (1997)
+      5. Erin Brockovich (2000)
 
 ========================================
 
---- Collaborative Filtering Recommendations ---
-      Shawshank Redemption, The (1994)
-      Pulp Fiction (1994)
-      Silence of the Lambs, The (1991)
-      Matrix, The (1999)
-      Star Wars: Episode IV - A New Hope (1977)
+Collaborative Filtering Recommendations
+      1. Shawshank Redemption, The (1994)
+      2. Pulp Fiction (1994)
+      3. Silence of the Lambs, The (1991)
+      4. Matrix, The (1999)
+      5. Star Wars: Episode IV - A New Hope (1977)
 
 ========================================
 
